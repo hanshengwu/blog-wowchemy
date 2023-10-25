@@ -9,7 +9,7 @@ superuser: true
 role: 产品经理
 organizations:
   - name: 工银科技有限公司
-    url: https://tech.icbc.com.cn
+    url: https://www.tech.icbc.com.cn
 bio: 测试1
 social:
   - icon: send
