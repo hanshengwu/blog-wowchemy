@@ -1,6 +1,6 @@
 ---
 title: 韓勝武
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Han Sheng Wu
 first_name: Sheng Wu
 last_name: Han
 status:
@@ -34,5 +34,5 @@ social:
 highlight_name: true
 ---
 
-韩胜武，毕业于南京理工大学，现就职于工银科技有限公司，从事信贷领域大数据人工智能领域，向全国中小银行输出风控技术和能力。
+韩胜武，毕业于南京理工大学，现就职于工银科技有限公司，从事大数据人工智能领域工作，向全国中小银行输出风控技术和能力。
 {style="text-align: justify; font-size: 0.8em;"}
