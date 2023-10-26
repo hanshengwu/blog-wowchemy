@@ -17,8 +17,8 @@ social:
     link: mailto:524761708@qq.com
   - icon: github
     icon_pack: wc
-    link: https://github.com/hanshengwu
-    icon: cv
+    link: https://github.com/hanshengwu 
+  - icon: cv
     icon_pack: wc
     link: uploads/resume.pdf
 highlight_name: true
