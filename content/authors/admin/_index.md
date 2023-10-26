@@ -12,25 +12,15 @@ organizations:
     url: https://www.tech.icbc.com.cn
 bio: 测试1
 social:
-  - icon: send
+  - icon: mail
     icon_pack: wc
-    link: mailto:your-email@example.com
-  - icon: twitter
-    icon_pack: wc
-    link: https://twitter.com/wowchemy
-    label: Follow me on Twitter
+    link: mailto:524761708@qq.com
   - icon: github
     icon_pack: wc
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: wc
-    link: https://www.linkedin.com/
+    link: https://github.com/hanshengwu
   - icon: cv
     icon_pack: wc
     link: uploads/resume.pdf
-  - icon: rss
-    icon_pack: wc
-    link: ./post/index.xml
 highlight_name: true
 ---
 
