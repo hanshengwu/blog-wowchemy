@@ -12,13 +12,13 @@ organizations:
     url: https://www.tech.icbc.com.cn
 bio: 测试1
 social:
-  - icon: mail
+  - icon: send
     icon_pack: wc
     link: mailto:524761708@qq.com
   - icon: github
     icon_pack: wc
     link: https://github.com/hanshengwu
-  - icon: cv
+    icon: cv
     icon_pack: wc
     link: uploads/resume.pdf
 highlight_name: true
